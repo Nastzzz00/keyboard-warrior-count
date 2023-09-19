@@ -1,0 +1,8 @@
+{
+  "name": "keyboard-warrior-count",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nastzzz00/keyboard-warrior-count.git",
+  "author": "Nastzzz00 <jonasnepomuceno08@gmail.com>",
+  "license": "MIT"
+}
